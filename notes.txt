@@ -1,0 +1,71 @@
+		
+			NOTES
+
+
+
+● To activate virtual environment type this and hit enter
+
+	-> source .venv/bin/activate
+
+● To start the flask server
+
+	-> flask --app <file name. e.g.: main.py> run
+
+● To enable debug mode, use the --debug option.
+
+	-> flask --app <file name. e.g.: main.py> run --debug
+
+● To install package from requirement.txt in python
+
+	-> pip install -r requirements.txt
+
+● Command of CMD to operate it
+
+	-> dir  => ls
+	-> cls  => clear
+	-> del  => rm
+	-> Command to move file in recycle bin in cmd in windows
+	-> doskey => alias e.g. doskey c=cls
+	
+● To activate virtual environment in cmd 
+	-> first go to "cd .venv"
+	-> then "Scripts\activate"
+
+● To start flask app in cmd 
+	-> python main.py
+
+● This is a general solution to use SMTP authentication in third
+	 party app and to add email sending features in any website.
+
+	 -> first turn on the 2 step verification on required email addres
+	 	-> then verify with phone number
+	
+	-> after 2 step verification go to 
+		-> https://myaccount.google.com/apppasswords
+		-> then enter the app name and press generate
+		-> then copy the generated password
+
+	-> come to flask application "main.py" in the place of 
+	-> real password use you generated password
+
+	-> Now, run the application your application work smoothely.
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●
+
+●

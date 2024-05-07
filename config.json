@@ -1,0 +1,22 @@
+{
+    "parameters":
+    {
+        "local_server": "True",
+        "local_uri": "mysql://root:@localhost/codingthunder",
+        "production_uri": "mysql://root:@localhost/codingthunder",
+        "twitter_url":"https://www.twitter.com/done4us18",
+        "facebook_url":"https://www.facebook.com/done4us18",
+        "github_url":"https://www.github.com/done4us18",
+        "blog_name":"Coding Thunder",
+        "blog_heading":"Coding Thunder",
+        "blog_subheading":"A Blog liked by the Programmers",
+        "gmail-username":"munna5764a@gmail.com",
+        "gmail-password":"ghpb iboa gxcc mmbh",
+        "about_text":"Hii, My name is Rohit and I create programming tutorials.",
+        "no_of_posts": 2,
+        "login_image":"login-logo.png",
+        "admin_user":"rohit",
+        "admin_password":"done4us",
+        "upload_location":"D:\\__Websites\\blog\\static"
+    }
+}
